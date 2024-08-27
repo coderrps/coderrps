@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📂 Featured Projects
 
 ### 1. [Mental Health Advisor](https://github.com/coderrps/mental-health-advisor)
-A web-based application that provides users with advice based on their responses to a series of questions. Built using Flask and Pandas.
+The Mental Health Advisor is an interactive web application designed to assess mental well-being through a series of tailored questions. Using a dynamic question-and-response interface, it collects user inputs and provides personalized advice based on their answers. The application aims to offer insightful guidance and support, helping users better understand their mental health and encouraging proactive measures for well-being.
 
 ### 2. [Netflix App](https://github.com/coderrps/netflix-app)
 The Netflix recommendation system is an advanced algorithm that personalizes content suggestions for each user based on their viewing history, ratings, and preferences. It combines collaborative and content-based filtering with machine learning to predict and recommend movies, TV shows, and documentaries tailored to individual tastes. The system continuously learns from user interactions, ensuring relevant and engaging recommendations, enhancing the overall viewing experience.

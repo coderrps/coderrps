@@ -50,5 +50,8 @@ The Alzheimer's Disease Detection Model utilizes Convolutional Neural Networks (
 Feel free to reach out to me for collaboration or just a friendly chat! You can find me on [LinkedIn](https://www.linkedin.com/in/riturpriyasingh) or [Email](mailto:rs9110131217@gmail.com).
 
 ---
+## Profile Visits
+
+![Profile Visits](https://img.shields.io/endpoint?url=https://some-visit-tracking-service.com/api/profile/coderrps)
 
 ⭐️ From [Ritu Priya Singh](https://github.com/coderrps)
